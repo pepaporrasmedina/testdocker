@@ -1,7 +1,7 @@
 version: "1"
 
 services:
-	testdocker:
-	  build: .
-	  ports:
-	   - 80:80 
+   testdocker:
+    build: .
+    ports:
+     - 80:80 
